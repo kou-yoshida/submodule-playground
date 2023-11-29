@@ -1,0 +1,3 @@
+[submodule "origin-docs"]
+	path = origin-docs
+	url = https://github.com/kou-yoshida/sumodule-target.git
